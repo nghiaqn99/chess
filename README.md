@@ -25,7 +25,7 @@ Cài đặt Pygame trên Linux
 |1    |3120410346 |Trương Đức Nghĩa |
 |2    |3120410029 |Lê Tuấn Anh  |
 ## Giáo viên hướng dẫn: Từ Lãng Phiêu
-#### Giấy phép MIT
+# Giấy phép MIT
 
 # Bản quyền (c) 2024 Lê Tuấn Anh
 
@@ -36,10 +36,10 @@ sử dụng, sao chép, sửa đổi, hợp nhất, xuất bản, phân phối, 
 bản sao của Phần mềm và cho phép những người mà Phần mềm được cung cấp
 được trang bị để làm như vậy, với các điều kiện sau:
 
-# Thông báo bản quyền ở trên và thông báo cấp phép này sẽ được bao gồm trong tất cả
+Thông báo bản quyền ở trên và thông báo cấp phép này sẽ được bao gồm trong tất cả
 bản sao hoặc các phần quan trọng của Phần mềm.
 
-# PHẦN MỀM ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG", KHÔNG CÓ BẢO ĐẢM DƯỚI BẤT KỲ HÌNH THỨC NÀO, RÕ RÀNG HOẶC
+PHẦN MỀM ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG", KHÔNG CÓ BẢO ĐẢM DƯỚI BẤT KỲ HÌNH THỨC NÀO, RÕ RÀNG HOẶC
 NGỤ Ý, BAO GỒM NHƯNG KHÔNG GIỚI HẠN ĐẢM BẢO VỀ KHẢ NĂNG BÁN,
 PHÙ HỢP CHO MỘT MỤC ĐÍCH CỤ THỂ VÀ KHÔNG VI PHẠM. TRONG MỌI TRƯỜNG HỢP SẼ KHÔNG ĐƯỢC
 TÁC GIẢ HOẶC NGƯỜI GIỮ BẢN QUYỀN PHẢI TRÁCH NHIỆM VỀ BẤT CỨ KHIẾU NẠI, THIỆT HẠI HOẶC KHÁC
